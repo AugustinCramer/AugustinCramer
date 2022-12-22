@@ -11,7 +11,7 @@ Interested in all sort of AI related subjects such as Time Series forecasting, I
 Contact: ```augustin.cramer@ensae.fr```
 
 **Previous work**
-* A full-stack [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensorflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_frontend), that I coded in swift, is the front-end part of the project. It was realized with [Lucas Saban](https://github.com/g0bel1n).
+* A full-stack [Image Classification project](https://github.com/iSab01/megazord-backend) using Tensorflow, Transfer-learning and CNN's. An [iOS app](https://github.com/iSab01/megazord_frontend), coded in swift, is the front-end part of the project. It was realized with [Lucas Saban](https://github.com/g0bel1n).
 
 <div align="center"> 
 
